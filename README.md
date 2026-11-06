@@ -11,7 +11,7 @@ Lately I've been working on onboarding, gamification and retention: loyalty hubs
 
 ### What I'm building
 
-| | |
+| Project | What it is |
 |---|---|
 | **[Nózito](https://github.com/Victorvkdev/nozito)** | A pixel-art virtual pet that lives inside [Énóis](https://enois.ia.br). Server-side rules, mini-games, Cloudflare + D1. Contributions welcome. |
 | **[victorvk.com](https://github.com/Victorvkdev/victorvk-site)** | My portfolio. Static build with checks for broken links, alt text and headings, plus EN/PT pages. |
@@ -21,18 +21,9 @@ Lately I've been working on onboarding, gamification and retention: loyalty hubs
 
 ### Tools I use
 
-<p>
-  <img src="https://img.shields.io/badge/Figma-1a1330?style=flat-square&logo=figma&logoColor=a78bfa" alt="Figma">
-  <img src="https://img.shields.io/badge/Framer-1a1330?style=flat-square&logo=framer&logoColor=a78bfa" alt="Framer">
-  <img src="https://img.shields.io/badge/HTML-1a1330?style=flat-square&logo=html5&logoColor=a78bfa" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-1a1330?style=flat-square&logo=css&logoColor=a78bfa" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-1a1330?style=flat-square&logo=javascript&logoColor=a78bfa" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-1a1330?style=flat-square&logo=typescript&logoColor=a78bfa" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-1a1330?style=flat-square&logo=react&logoColor=a78bfa" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-1a1330?style=flat-square&logo=nextdotjs&logoColor=a78bfa" alt="Next.js">
-  <img src="https://img.shields.io/badge/Cloudflare-1a1330?style=flat-square&logo=cloudflare&logoColor=a78bfa" alt="Cloudflare">
-  <img src="https://img.shields.io/badge/Supabase-1a1330?style=flat-square&logo=supabase&logoColor=a78bfa" alt="Supabase">
-</p>
+**Design:** Figma, Framer, Adobe CC, Miro, Maze  
+**Code:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Liquid, Python  
+**Platform:** Cloudflare (Workers, Pages, D1), Supabase, Vercel, GitHub Actions
 
 I don't stick to one stack. I pick what fits the problem.
 
