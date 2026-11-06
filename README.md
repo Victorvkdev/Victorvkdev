@@ -1,40 +1,47 @@
-<div align="center">
-  <img src="./assets/banner.svg" alt="Victor Vk Cavalcante — Product Designer, Design Engineer" width="100%" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <img src="./assets/banner-light.svg" alt="Victor “Vk” Cavalcante, Product Designer (UX/UI) and Front-end Developer" width="100%">
+</picture>
 
-<br/>
+Hi, I'm Vk. I've spent 7 years designing apps, sites, platforms and games, 6 of them in product design and UI/UX.
 
-I design and build interfaces where the detail has a purpose — acquisition, retention, conversion. Background in game design shaped how I think about behavior: engagement loops, reward systems, the mechanics that keep people coming back. That instinct lives in every product decision I make now.
+I started in game development, and it still shapes how I work. Rewards, progress and a good first minute are what make people come back, in a game or in a product. I take a feature from research and flows in Figma all the way to the code that ships it.
 
-Currently working across design systems, CRM and gamification in iGaming — one of the most retention-driven product categories there is. Built a multi-brand tool from scratch that took campaign output from 1x to 6x.
+Lately I've been working on onboarding, gamification and retention: loyalty hubs, missions, stores, the screens that turn a visit into a habit.
 
-I work end to end: mapping flows in Figma, prototyping real interfaces in Framer, writing the React/TypeScript that ships them.
+### What I'm building
 
-<br/>
+| | |
+|---|---|
+| **[Nózito](https://github.com/Victorvkdev/nozito)** | A pixel-art virtual pet that lives inside [Énóis](https://enois.ia.br). Server-side rules, mini-games, Cloudflare + D1. Contributions welcome. |
+| **[victorvk.com](https://github.com/Victorvkdev/victorvk-site)** | My portfolio. Static build with checks for broken links, alt text and headings, plus EN/PT pages. |
+| **[Krowlect](https://victorvk.com/game/)** | An idle game about a raven king collecting eyes. Vanilla JS, pixel art made in code, cloud save and leaderboard. |
+| **[multi-brand-email-builder](https://github.com/Victorvkdev/multi-brand-email-builder)** | One email template, any brand: design tokens instead of copy-pasted templates. |
+| **[Cooldecode](https://github.com/Victorvkdev/cooldecode)** | My public study hub on front-end, databases and AI, in Next.js. |
 
-### Currently building
-
-**[multi-brand-email-builder](https://github.com/Victorvkdev/multi-brand-email-builder)** — a non-proprietary demo of the token-driven theming pattern behind that 1x→6x tool: one email template, three brands, zero duplication.
-
-<br/>
-
-### Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Figma-0F0B1A?style=for-the-badge&logo=figma&logoColor=A78BFA" alt="Figma"/>
-  <img src="https://img.shields.io/badge/React-0F0B1A?style=for-the-badge&logo=react&logoColor=A78BFA" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-0F0B1A?style=for-the-badge&logo=typescript&logoColor=A78BFA" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Next.js-0F0B1A?style=for-the-badge&logo=nextdotjs&logoColor=A78BFA" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Framer-0F0B1A?style=for-the-badge&logo=framer&logoColor=A78BFA" alt="Framer"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F0B1A?style=for-the-badge&logo=tailwindcss&logoColor=A78BFA" alt="Tailwind CSS"/>
-</p>
-
-### Connect
+### Tools I use
 
 <p>
-  <a href="https://victorvk.com"><img src="https://img.shields.io/badge/Portfolio-0F0B1A?style=for-the-badge&logo=safari&logoColor=A78BFA" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/victorvk/"><img src="https://img.shields.io/badge/LinkedIn-0F0B1A?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn"/></a>
-  <a href="mailto:hello@victorvk.com"><img src="https://img.shields.io/badge/Email-0F0B1A?style=for-the-badge&logo=zoho&logoColor=A78BFA" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Figma-1a1330?style=flat-square&logo=figma&logoColor=a78bfa" alt="Figma">
+  <img src="https://img.shields.io/badge/Framer-1a1330?style=flat-square&logo=framer&logoColor=a78bfa" alt="Framer">
+  <img src="https://img.shields.io/badge/HTML-1a1330?style=flat-square&logo=html5&logoColor=a78bfa" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-1a1330?style=flat-square&logo=css&logoColor=a78bfa" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-1a1330?style=flat-square&logo=javascript&logoColor=a78bfa" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-1a1330?style=flat-square&logo=typescript&logoColor=a78bfa" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-1a1330?style=flat-square&logo=react&logoColor=a78bfa" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-1a1330?style=flat-square&logo=nextdotjs&logoColor=a78bfa" alt="Next.js">
+  <img src="https://img.shields.io/badge/Cloudflare-1a1330?style=flat-square&logo=cloudflare&logoColor=a78bfa" alt="Cloudflare">
+  <img src="https://img.shields.io/badge/Supabase-1a1330?style=flat-square&logo=supabase&logoColor=a78bfa" alt="Supabase">
 </p>
 
-Open to remote roles across international teams where design is taken seriously and outcomes matter more than process.
+I don't stick to one stack. I pick what fits the problem.
+
+### Outside the screen
+
+Ravens, coffee, cats and RPGs, in about that order.
+
+### Let's talk
+
+I'm open to remote product design and front-end roles, and to freelance projects.
+
+[victorvk.com](https://victorvk.com) · [LinkedIn](https://www.linkedin.com/in/victorvk/) · [Behance](https://www.behance.net/victorvk) · [hello@victorvk.com](mailto:hello@victorvk.com) · [Book a call](https://cal.com/victorvk/intro)
