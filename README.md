@@ -8,32 +8,28 @@ I started in game development, and it still shapes how I work. Rewards, progress
 
 Lately I've been working on onboarding, gamification and retention: loyalty hubs, missions, stores, the screens that turn a visit into a habit.
 
-### What I'm building
+<img src="./assets/h-work.png" alt="01, Selected work. What I'm building." width="100%">
 
-| Project | What it is |
-|---|---|
-| **[Nózito](https://github.com/Victorvkdev/nozito)** | A pixel-art virtual pet that lives inside [Énóis](https://enois.ia.br). Server-side rules, mini-games, Cloudflare + D1. Contributions welcome. |
-| **[victorvk.com](https://github.com/Victorvkdev/victorvk-site)** | My portfolio. Static build with checks for broken links, alt text and headings, plus EN/PT pages. |
-| **[Tinker](https://github.com/Victorvkdev/tinker)** | A concept launch page for a handheld made for indie games. Every visual is made in code: three.js, canvas, SVG and CSS. |
-| **[Krowlect](https://victorvk.com/game/)** | An idle game about a raven king collecting eyes. Vanilla JS, pixel art made in code, cloud save and leaderboard. |
-| **[multi-brand-email-builder](https://github.com/Victorvkdev/multi-brand-email-builder)** | One email template, any brand: design tokens instead of copy-pasted templates. |
-| **[Cooldecode](https://github.com/Victorvkdev/cooldecode)** | My public study hub on front-end, databases and AI, in Next.js. |
-| **[claude-toolkit](https://github.com/Victorvkdev/claude-toolkit)** | Skills, templates and notes for working with LLMs, plus a guide to running agents on a low budget. |
+<a href="https://github.com/Victorvkdev/nozito"><img src="./assets/c-nozito.png" alt="Nózito: pixel-art virtual pet inside Énóis. Server-side rules, mini-games, Cloudflare Workers and D1." width="49%"></a>
+<a href="https://github.com/Victorvkdev/victorvk-site"><img src="./assets/c-site.png" alt="victorvk.com: my portfolio. Static build with checks for broken links, alt text and headings, EN and PT." width="49%"></a>
+<a href="https://github.com/Victorvkdev/tinker"><img src="./assets/c-tinker.png" alt="Tinker: concept launch page for a handheld for indie games, made in three.js, canvas, SVG and CSS." width="49%"></a>
+<a href="https://victorvk.com/game/"><img src="./assets/c-krowlect.png" alt="Krowlect: idle game about a raven king collecting eyes. Vanilla JS, pixel art made in code." width="49%"></a>
+<a href="https://github.com/Victorvkdev/multi-brand-email-builder"><img src="./assets/c-email.png" alt="multi-brand-email-builder: one email template, any brand, with design tokens." width="49%"></a>
+<a href="https://github.com/Victorvkdev/cooldecode"><img src="./assets/c-cool.png" alt="Cooldecode: public study hub on front-end, databases and AI, in Next.js." width="49%"></a>
+<a href="https://github.com/Victorvkdev/claude-toolkit"><img src="./assets/c-toolkit.png" alt="claude-toolkit: skills, templates and a guide to running LLM agents on a low budget." width="49%"></a>
 
-### Tools I use
+<img src="./assets/h-tools.png" alt="02, Stack. Tools I use." width="100%">
 
-**Design:** Figma, Framer, Adobe CC, Miro, Maze  
-**Code:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Liquid, Python  
-**Platform:** Cloudflare (Workers, Pages, D1), Supabase, Vercel, GitHub Actions
+<img src="./assets/tools.png" alt="Design: Figma, Framer, Adobe CC, Miro, Maze. Code: TypeScript, HTML, CSS, JavaScript, React, Next.js, Liquid, Python. Platform: Cloudflare, Workers, Pages, D1, Supabase, Vercel, GitHub Actions." width="100%">
 
-I don't stick to one stack. I pick what fits the problem.
+<img src="./assets/h-talk.png" alt="03, Contact. Let's talk." width="100%">
 
-### Outside the screen
+<img src="./assets/cta.png" alt="Open to work, remote. Product design and front-end roles, and freelance. Six years of apps, sites, platforms and games." width="100%">
 
-Ravens, coffee, cats and RPGs, in about that order.
+<a href="https://cal.com/victorvk/intro"><img src="./assets/b-call.png" alt="Book a call" height="40"></a>
+<a href="https://victorvk.com"><img src="./assets/b-site.png" alt="victorvk.com" height="40"></a>
+<a href="https://www.linkedin.com/in/victorvk/"><img src="./assets/b-li.png" alt="LinkedIn" height="40"></a>
+<a href="https://www.behance.net/victorvk"><img src="./assets/b-be.png" alt="Behance" height="40"></a>
+<a href="mailto:hello@victorvk.com"><img src="./assets/b-mail.png" alt="hello@victorvk.com" height="40"></a>
 
-### Let's talk
-
-I'm open to remote product design and front-end roles, and to freelance projects.
-
-[victorvk.com](https://victorvk.com) · [LinkedIn](https://www.linkedin.com/in/victorvk/) · [Behance](https://www.behance.net/victorvk) · [hello@victorvk.com](mailto:hello@victorvk.com) · [Book a call](https://cal.com/victorvk/intro)
+Outside the screen: ravens, coffee, cats and RPGs, in about that order.
